@@ -1,0 +1,7 @@
+play:
+    build: ./dockerfiles
+    dockerfile: local.dockerfile
+    volumes:
+        - .:/go/src/github.com/WreckingBallStudioLabs/SelfCompilingExample
+    ports:
+        - "80:8080"

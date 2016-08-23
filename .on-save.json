@@ -1,0 +1,8 @@
+[
+  {
+    "srcDir": ".",
+    "destDir": ".",
+    "files": "**/*.go",
+    "command": "echo $(date) - ${srcFile} > .build"
+  }
+]
