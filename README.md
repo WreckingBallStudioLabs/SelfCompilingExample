@@ -2,4 +2,5 @@
 
 ![Self Compiling](self-compiling.gif)
 
-Blog URL Forthcoming
+Blog post:
+* http://web-rat.com/posts/2016/self-compiling-go-docker/
